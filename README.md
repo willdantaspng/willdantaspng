@@ -16,9 +16,6 @@
 <br>
 <br>
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=willelera&color=blue&style=flat-square&label=Profile+Views)
 
 ## 👨‍💻 Technologies:
 
